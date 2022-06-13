@@ -1,6 +1,9 @@
+<h3 align="center">xsyxv.xyz</h3>
+  
+  
 ## info
 
-This is my website, you can edit it as you like. <a href="xsyxv.xyz">xsyxv.xyz</a>
+This is my website, you can edit it as you like. 
 
 ## details
 
